@@ -27,4 +27,5 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 requests==2.31.0
 Werkzeug==3.0.2
-openpyxl==3.0.10
+openpyxl>=3.1.0
+
